@@ -1,4 +1,4 @@
-# Basic_Virtual_mouse
+# Basic_Virtual_Mouse
 # Internet Of Things
 
 * An IOT project which uses Esp8266 wifi and accelerometer which tracks the movement.
