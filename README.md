@@ -11,7 +11,7 @@
 
 * Arduino Uno
 * ESP8266/ESP32
-* ADXL5 (3 axis accelerometer)
+* ADXL345 (3 axis accelerometer)
 * Jumper Wires
 
 #### Software Applications
